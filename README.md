@@ -7,11 +7,13 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 ## Requirements
 
 - [Node and npm](http://nodejs.org)
+- [Mongo DB](http://www.mongodb.org)
 
 ## Installation
 
 1. Clone the repository: `git clone git@github.com:scotch-io/node-todo`
 2. Install the application: `npm install`
+3. Start mongodb in a different terminal with `mongod --dbpath /usr/local/var/mongodb` (or whatever works for you)
 3. Start the server: `node server.js`
 4. View in browser at `http://localhost:8080`
 
