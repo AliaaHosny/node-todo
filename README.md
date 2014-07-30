@@ -6,7 +6,7 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 
 ## Deploy on Heroku
 
-[![Deploy on Heroku](https://i.cloudup.com/sjLqTMcojN.svg)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Local Development
 
