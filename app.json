@@ -6,8 +6,5 @@
     "node",
     "angular",
     "mongodb"
-  ],
-  "addons": [
-    "mongohq"
   ]
 }
